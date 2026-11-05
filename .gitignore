@@ -1,0 +1,16 @@
+# Java compilation and build output
+*.class
+**/build/
+**/dist/
+**/out/
+**/target/
+
+# Local NetBeans settings
+**/nbproject/private/
+
+# Local editor and operating system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
